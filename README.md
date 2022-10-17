@@ -1,1 +1,0 @@
-# capstonr-project-tr
